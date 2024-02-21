@@ -1,1 +1,1 @@
-# Medical-Insurance-Cost-Prediction
+# DMW Mini Project Medical-Insurance-Cost-Prediction
